@@ -51,5 +51,21 @@ ponto interessante trazido pelo professor é o de que existem diferentes maneira
 de resolver um mesmo problema, escrever códigos é sobre resolver problemas da 
 maneira mais eficiente possível.
 
+Mais à frente no curso, o professor apresenta o pseudocódigo, que é basicamente 
+uma maneira "arcáica" de escrever seus códigos apenas para criar uma estrutura 
+de base, ou passo a passo do código real, pra explicar uma maneira de manejar o
+problema da lista telefônica em código.
 
+A partir da metade da aula nos é apresentado o Stratch, uma comunidade gratuita 
+do mundo da programação para crianças, mas muito utilizado para apresentar a ló-
+gica de programação de maneira mais visual para iniciantes.
 
+Dentro do Strach, coisa como parâmetros, funções, valor de retorno ou valor retornado, são apresentados de forma interativa a partir das ações do gatinho.
+Além disso, o professor também mostra o que são algorítmos e como alguns outputs
+funcionam como inputs de outros algoritmos.
+
+Ao demonstrar um loop no Stratch a ideia de abstração é apresentada para facili-
+tar a manutenção do código, com isso a questão de design de código fica clara,
+já que tanto um loop simples quanto o loop com a variável "meoew" definida fun-
+cionam da mesma forma, apesar disso, um é preferível ao outro por razões estéti-
+cas e de organização.
